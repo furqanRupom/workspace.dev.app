@@ -1,6 +1,6 @@
 # Workspace.dev.app
 
-Welcome to **Workspace.dev.app**, a collaborative platform for our team to explore and contribute articles about modern MERN (MongoDB, Express.js, React, Node.js) technologies. This platform is designed to be a knowledge hub where team members can share insights, best practices, and updates on the latest trends in the MERN stack.
+Welcome to **Workspace.dev.app**, a collaborative platform for our team to explore and contribute articles about modern MERN (MongoDB, Next.js, React) technologies. This platform is designed to be a knowledge hub where team members can share insights, best practices, and updates on the latest trends in the MERN stack.
 
 ## Features
 
@@ -13,6 +13,8 @@ Welcome to **Workspace.dev.app**, a collaborative platform for our team to explo
 - **Responsive Design**: Access the platform seamlessly from desktops, tablets, and mobile devices.
 
 - **Comments and Discussions**: Engage with the community through comments and discussions on each article.
+
+
 
 ## Tech Stack
 * Next.js: React framework for building server-rendered applications
